@@ -1,5 +1,13 @@
 # Collective
 
+## To Learn
+
+* Nvidia Spectrum-X
+
+
+
+
+
 ## Concepts / Acronym
 
 ### Software Stack
@@ -35,13 +43,22 @@ OFI-NCCL plugin before OFI-NCCL, NCCL can only use socket or InfiniBand. when it
 
 ### DDP
 
-* &#x20;\- Distributed Data Parallel
+* Distributed Data Parallel
+* Direct Data Placement Protocol
 
 ### FSDP - Fully Sharded Data Parallel
 
 
 
-### GPU Direct RDMA&#x20;
+### RDMA
+
+* Common RDMA implementations include the [Virtual Interface Architecture](https://en.wikipedia.org/wiki/Virtual_Interface_Architecture), [RDMA over Converged Ethernet](https://en.wikipedia.org/wiki/RDMA_over_Converged_Ethernet) (RoCE), [InfiniBand](https://en.wikipedia.org/wiki/InfiniBand), [Omni-Path](https://en.wikipedia.org/wiki/Omni-Path) and [iWARP](https://en.wikipedia.org/wiki/IWARP).
+* GPU Direct RDMA
+* InfiniBand < RoCE (RMDA over Converged Ethernet)
+  *
+
+      <figure><img src="../.gitbook/assets/SEO-《浅谈RDMA》-配图02 (1).png" alt=""><figcaption></figcaption></figure>
+  * Vervbs API
 
 ###
 

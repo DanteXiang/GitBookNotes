@@ -1,8 +1,8 @@
 # Family Finance
 
-### Edward Jones Financial Advisor
+## Edward Jones Financial Advisor
 
-#### 12/24
+### 12/24
 
 4pillars
 

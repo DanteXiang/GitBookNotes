@@ -26,4 +26,4 @@ You'll see some of the best parts of GitBook in action — and find help on how 
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Collective</strong></td><td></td><td></td><td><a href="tech-notes/collective.md">collective.md</a></td></tr><tr><td><strong>Publish your docs</strong></td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Collective</strong></td><td></td><td></td><td><a href="tech-notes/collective.md">collective.md</a></td></tr><tr><td><strong>Publish your docs</strong></td><td></td><td></td><td><a href="game-of-life/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>

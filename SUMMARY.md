@@ -10,10 +10,11 @@
 
 * [Page 1](book-read/page-1.md)
 
-## Getting Started
+## 💹 GAME OF LIFE
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Family Finance](game-of-life/family-finance.md)
+* [Quickstart](game-of-life/quickstart.md)
+* [Publish your docs](game-of-life/publish-your-docs.md)
 
 ## Basics
 
